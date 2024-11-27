@@ -1,0 +1,10 @@
+langchain_community
+boto3==1.34.37
+numpy
+langchain
+langchainhub
+langchain-openai
+chromadb
+bs4
+tiktoken
+openai
